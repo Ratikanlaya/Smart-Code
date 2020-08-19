@@ -92,7 +92,7 @@ void loop(){
 	
 
   const float alpha = 0.5;
-  double fXg = 0;
+  double fXg = 0.5;
   double fYg = 0;
   double fZg = 0;
 	double xyz[3];
